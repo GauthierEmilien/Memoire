@@ -1,0 +1,23 @@
+Faire en sorte de mieux vendre un produit/une techno => 5 étapes :
+
+1. Nommer un changement important dans le monde
+   ce changement doit concerner le lecteur et lui montrer qu'il est important qu'il s'y adapte
+   Faire en sorte qu'il y ai des opportunités et des risques pour le lecteur
+   (Montrer un historique)
+   Ne pas expliquer le problème au lecteur tout de suite
+   ne pas parler de changement progressif, parler d'une réelle interruption, quitte à abuser un peu
+   ce changement n'est pas grâce à ma solution, je n'apporte pas de changement
+   ce changement s'est déjà produit
+   expliquer comment les choses ont changé
+
+2. Démontrer que le changement impliquera des points positif (gain de temps, profit, etc)
+   Démontrer que ne pas changer aura un impact négatif pour le lecteur sur le court ou long terme
+   
+3. Parler de la solution sans donner trop de détail pour le moment
+   Expliquer ce que la solution permettra de réaliser
+   (pour les microservice par exemple : meilleure scalabilité, meilleure résillience, adaptés au cloud, etc)
+   
+4. Parler des fonctionnalités en expliquant pourquoi elles résolvent le problème
+
+5. Donner des preuves que c'est efficace
+   Pour les microservices par exemple, parler de Netflix qui est devenu référence dans la façon de procéder
